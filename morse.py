@@ -1,3 +1,9 @@
+#
+#  Write morse code through the default audio interface
+#
+#  MIT (c) 2023 René Oudeweg
+#
+
 import subprocess
 import time
 
