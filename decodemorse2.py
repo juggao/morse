@@ -1,3 +1,5 @@
+# install https://pypi.org/project/morse-audio-decoder/
+
 from morse_audio_decoder.morse import MorseCode
 import sys
 
